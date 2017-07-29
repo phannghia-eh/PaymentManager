@@ -1,0 +1,3 @@
+Nhà cửa	sửa	10000
+Ăn uống	vặt	21010
+Di chuyển	bay	12300
